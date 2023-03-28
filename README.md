@@ -1,5 +1,5 @@
 <h1>### Hi there 👋</h1>
-<button></button>
+<button name="button">Click me</button>
 <!--
 **MauSoC/MauSoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
